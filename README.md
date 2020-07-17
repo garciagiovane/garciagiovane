@@ -1,16 +1,14 @@
-### Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-Giovane%20Garcia-blue?style=flat-square)](https://www.linkedin.com/in/giovanegarcia/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-Giovane%20Garcia-red?style=flat-square)](mailto:giovane.garcia09@gmail.com)
 
-<!--
-**garciagiovane/garciagiovane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Giovane Garcia
 
-Here are some ideas to get you started:
+## Hi 👋, I'm Giovane Garcia, a backend developer who is passionate about learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working with
+  - Java and microservices
+  - Gradle and Junit
+  - Spring web and reactive
+  - MongoDB and Oracle
+  
+- 🌱 Learning React and Kotlin
