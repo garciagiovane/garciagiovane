@@ -12,3 +12,4 @@
   - MongoDB and Oracle
   
 - 🌱 Learning React and Kotlin
+-  ⚡ Technologies: Java, React, Quarkus, Spring
